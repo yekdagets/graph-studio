@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Download, Settings } from "lucide-react";
+import { Settings } from "lucide-react";
 
 export default function ActionsPanel() {
   return (
