@@ -153,4 +153,4 @@ const filteredDevices = useMemo(() => {
 * Separation of Concerns: Business logic extracted from UI components
 
 ## Live Link
-[https://vercel.com/yekdagets-projects/graph-studio](https://graph-studio.vercel.app/)
+graph-studio.vercel.app
